@@ -16,7 +16,7 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
 group = 'com.jojoldu'
-version = '0.0.7'
+version = '1.0.3-SNOPSHOT-' + new Date().format("yyyyMMddHHmmss")
 sourceCompatibility = 1.8
 
 repositories {
