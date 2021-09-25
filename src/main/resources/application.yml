@@ -20,7 +20,7 @@ spring:
     console:
       enabled: true
 
-# 운환경
+# 운영 환경
 ---
 spring.profiles: set1
 spring.profiles.include: real-db
