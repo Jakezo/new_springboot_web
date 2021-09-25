@@ -11,9 +11,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 /**
- * Created by jojoldu@gmail.com on 2017. 12. 31.
- * Blog : http://jojoldu.tistory.com
- * Github : https://github.com/jojoldu
  */
 
 @RunWith(SpringRunner.class)

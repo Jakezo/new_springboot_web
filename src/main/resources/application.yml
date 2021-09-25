@@ -35,3 +35,13 @@ spring.profiles.include: real-db
 server:
   port: 8082
 
+
+#datasource:
+#  url : jdbc:mariadb://rds엔드포인트:포트명/database이름
+#  username : db계정
+#  password : db계정 비밀번호
+#  driver-class-name: org.mariadb.jdbc.Driver
+#
+#jpa:
+#  hibernate:
+#    ddl-auto: none

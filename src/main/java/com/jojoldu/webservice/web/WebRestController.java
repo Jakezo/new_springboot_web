@@ -12,9 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Arrays;
 
 /**
- * Created by jojoldu@gmail.com on 2017. 12. 24.
- * Blog : http://jojoldu.tistory.com
- * Github : https://github.com/jojoldu
  */
 
 @RestController
