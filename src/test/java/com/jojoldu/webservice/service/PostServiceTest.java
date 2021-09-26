@@ -34,7 +34,7 @@ public class PostServiceTest {
         PostsSaveRequestDto dto = PostsSaveRequestDto.builder()
                 .author("jojoldu@gmail.com")
                 .content("테스트")
-                .title("테스트 타이틀")
+                .title("테스트 타이")
                 .build();
 
         //when
